@@ -31,7 +31,7 @@ Lastly, I applied a **log transformation** to \( p_T \), which regularized the f
 
 Below is a visualization of some example quark and gluon jets in \( \eta-\phi \) space. The color represents the normalized charge, and the size of the markers indicates particle \( p_T \).
 
-![Jet Visualization](./image.png)
+![Jet Visualization](./jets.png)
 
 ---
 
